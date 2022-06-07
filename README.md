@@ -16,7 +16,7 @@ Quando lo script è finito si dovrebbe avere **una copia esatta con la stessa ge
 
 Questo progetto non ha necessariamente molto utilizzo, però in pratica, mentre lo script di Backup è in avvio questo script si avvierà e apre **un’altra scheda di Powershell** che copre tutto lo schermo (ovviamente si può chiudere o mettere da parte se non si vuole) cambiando lo sfondo a nero e i caratteri a verde chiaro.
 
-Sulla nuova scheda di Powershell verrà riprodotto l’effetto notevole dal film Matrix, in cui casualmente un numero di colonne casuali di caratteri randomici scenderanno fino in fondo allo schermo. 
+Sulla nuova scheda di Powershell verrà riprodotto, finche non viene chiuso dall'utente, l’effetto notevole dal film Matrix, in cui casualmente un numero di colonne casuali di caratteri randomici scenderanno fino in fondo allo schermo. 
 
 ## Progetto (Progetto.ps1)
 Per avviare tutto il progetto in modo corretto, devi avviare lo script **Progetto.ps1** con gli stessi parametri detti precedentemente in Backup di File.
